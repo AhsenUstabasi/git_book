@@ -4,3 +4,6 @@ for the book
 
 chapet 1 is good
 keep working on chapter2
+
+more fun
+more java
